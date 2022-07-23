@@ -38,7 +38,7 @@ Additional modules needed: Seaborn
 ## Credits
 This datasets is provided by [Kaggle][US Geological Survey][https://www.kaggle.com/datasets/usgs/earthquake-database?select=database.csv] 
 
-Special thanks to Andy McDonald for his walk through video on how to make the data visualization on his Youtube Channel [https://www.youtube.com/c/AndyMcDonald42]
+Special thanks to Andy McDonald for his walk through video on how to create the data visualization on his Youtube Channel [https://www.youtube.com/c/AndyMcDonald42]
 
 
 
